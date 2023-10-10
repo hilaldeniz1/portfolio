@@ -70,20 +70,20 @@ export const data: TypeMyData[] = [
     gitHub: "https://github.com/hilaldeniz1/radar-toolkit",
   },
 
-  {
-    id: 9,
-    title: "React | NasaSpace APP",
-    img_url: `${NasaSpace}`,
-    link: "https://reactjs-nasa-app.netlify.app",
-    gitHub: "",
-  },
-  {
-    id: 10,
-    title: "React | Recibe APP",
-    img_url: `${RecibeApp}`,
-    link: "https://reactjs-recibe-app.netlify.app",
-    gitHub: "",
-  },
+  // {
+  //   id: 9,
+  //   title: "React | NasaSpace APP",
+  //   img_url: `${NasaSpace}`,
+  //   link: "https://reactjs-nasa-app.netlify.app",
+  //   gitHub: "",
+  // },
+  // {
+  //   id: 10,
+  //   title: "React | Recibe APP",
+  //   img_url: `${RecibeApp}`,
+  //   link: "https://reactjs-recibe-app.netlify.app",
+  //   gitHub: "",
+  // },
 ];
 
 export const listNavBar: TypeNavbar[] = [
