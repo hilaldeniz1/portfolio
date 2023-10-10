@@ -79,17 +79,18 @@ const Qualification: React.FC = () => {
                   <span className="qualification__line"></span>
                 </div>
                 <div>
-                  <h3 className="qualififaction__title">AU</h3>
-                  <span className="qualification__subtitle">
-                    Faculty of Management
-                  </span>
+                  <h3 className="qualififaction__title">
+                    Artvin Coruh University
+                  </h3>
+                  <span className="qualification__subtitle">Nurse</span>
                   <div className="qualification__calender">
                     <i className="uil uil-calender"></i>
                   </div>
                 </div>
               </div>
               {/* GRP 3 */}
-              <div className="qualification__data">
+
+              {/* <div className="qualification__data">
                 <div>
                   <h3 className="qualififaction__title">
                     Digital Marketing Specialist
@@ -106,7 +107,7 @@ const Qualification: React.FC = () => {
                   <span className="qualifaction__rounder"></span>
                   <span className="qualification__line"></span>
                 </div>
-              </div>
+              </div> */}
               {/* GRP 4 */}
               <div className="qualification__data">
                 <div></div>
@@ -167,7 +168,7 @@ const Qualification: React.FC = () => {
                   <span className="qualifaction__rounder"></span>
                   <span className="qualification__line"></span>
                 </div>
-                <div>
+                {/* <div>
                   <h3 className="qualififaction__title">Niğdelioğlu Metal</h3>
                   <span className="qualification__subtitle">
                     Manuel Testing | Hibrit - Turkey
@@ -176,11 +177,11 @@ const Qualification: React.FC = () => {
                     <i className="uil uil-calender"></i>
                     2021 - 2022
                   </div>
-                </div>
+                </div> */}
               </div>
               {/* GRP 7 */}
               <div className="qualification__data">
-                <div>
+                {/* <div>
                   <h3 className="qualififaction__title">Freelancer</h3>
                   <span className="qualification__subtitle">
                     Digital Marketing & Online Sales Strategy Specialist
@@ -189,7 +190,7 @@ const Qualification: React.FC = () => {
                     <i className="uil uil-calender"></i>
                     2016 - 2021
                   </div>
-                </div>
+                </div> */}
                 <div>
                   <span className="qualifaction__rounder"></span>
                   <span className="qualification__line"></span>

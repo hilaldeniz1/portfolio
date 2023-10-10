@@ -34,7 +34,7 @@ const Header: FC = () => {
         >
           <img src={require("../assets/hilal.png")} alt="logo" />
         </a>
-        <a href="/my-portfolio/" className="nav__logo">
+        <a href="/" className="nav__logo">
           Hilal Habibe GÜLGÜN
         </a>
 
