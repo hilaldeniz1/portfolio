@@ -56,7 +56,7 @@ const Qualification: React.FC = () => {
             >
               {/* GRP 1 */}
               <div className="qualification__data">
-                <div>
+                {/* <div>
                   <h3 className="qualififaction__title">FSMU</h3>
                   <span className="qualification__subtitle">
                     Software Development{" "}
@@ -65,7 +65,7 @@ const Qualification: React.FC = () => {
                     <i className="uil uil-calender"></i>
                     2022 - 2023
                   </div>
-                </div>
+                </div> */}
                 <div>
                   <span className="qualifaction__rounder"></span>
                   <span className="qualification__line"></span>
