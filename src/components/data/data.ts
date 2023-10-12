@@ -23,7 +23,7 @@ export const data: TypeMyData[] = [
     id: 2,
     title: "React - Netflix Clone",
     img_url: `${MovieApp}`,
-    link: "https://react-firebase-ecommerce-hooks.netlify.app",
+    link: "",
     gitHub: "https://github.com/hilaldeniz1/netflix-film",
   },
   {
