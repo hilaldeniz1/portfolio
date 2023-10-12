@@ -7,8 +7,8 @@ import Spotify from "../assets/spotify.png";
 import Gmail from "../assets/gmail.png";
 import Recipe from "../assets/recipe.png";
 import MovieApp from "../assets/movieApp.png";
-import NasaSpace from "../assets/nasaSpace.png";
-import RecibeApp from "../assets/recibeApp.png";
+// import NasaSpace from "../assets/nasaSpace.png";
+// import RecibeApp from "../assets/recibeApp.png";
 import Portfolio from "../assets/portfolio.png";
 
 export const data: TypeMyData[] = [
@@ -16,21 +16,21 @@ export const data: TypeMyData[] = [
     id: 1,
     title: "React + TS Portfolio",
     img_url: `${Portfolio}`,
-    link: "",
-    gitHub: "",
+    link: "https://hilalportfolio.netlify.app/",
+    gitHub: "https://github.com/hilaldeniz1/portfolio",
   },
   {
     id: 2,
     title: "React - Netflix Clone",
     img_url: `${MovieApp}`,
     link: "https://react-firebase-ecommerce-hooks.netlify.app",
-    gitHub: "https://github.com/ilkerteymur/Netflix-Clone",
+    gitHub: "https://github.com/hilaldeniz1/netflix-film",
   },
   {
     id: 3,
     title: "React - Youtube Clone",
     img_url: `${Youtube}`,
-    link: "https://github.com/ilkerteymur/Youtube-Clone",
+    link: "",
     gitHub: "https://github.com/hilaldeniz1/react-youtube",
   },
   {
@@ -44,14 +44,14 @@ export const data: TypeMyData[] = [
     id: 5,
     title: "React - Spotify Clone",
     img_url: `${Spotify}`,
-    link: "https://funny-biscochitos-75c85c.netlify.app/",
+    link: "https://stunning-licorice-0b1705.netlify.app",
     gitHub: "https://github.com/hilaldeniz1/spotify-clone",
   },
   {
     id: 6,
     title: "JS - Gmail Clone",
     img_url: `${Gmail}`,
-    link: "https://gmail-clonnee.netlify.app/",
+    link: "https://zippy-pavlova-cedbe8.netlify.app/",
     gitHub: "https://github.com/hilaldeniz1/gmail-clone",
   },
 
